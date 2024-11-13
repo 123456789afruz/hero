@@ -1,0 +1,32 @@
+.hero {
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero1{
+    background-color: lightgreen;
+    background-image: url(https://i.ytimg.com/vi/aC46RQ8cuAA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAzeva28or79MkynjjpOT-K6AT57Q);
+
+}
+
+.hero2 {
+    background-color: lightblue;
+    background-image: url(https://i.pinimg.com/736x/3d/51/1a/3d511a2ccbe4d4d2bb4567436adaea2b.jpg);
+}
+.hero3 {
+    background-color: lightgrey;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBGL1JioITbcwomJaJOnGwWkVMAlyAvJ7Aw&s);
+}
+.hero4 {
+    background-color: lightcoral;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3dDGmVcnSMSt2t-frL550V95zGSc0KQiVw&s);
+}
+.hero5 {
+    background-color: lightyellow;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcEgYhSVpLbRDdOAX7VqSBVOUWaT9KPLp-A&s);
+}
